@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM1876
+D Dual 20W Overture Seriers Audio Power Amplifier, with Mute Standby Mode, TO220-15 (MultiWatt)
+K LM1876 Overture Amplifier Dual 20W
+F http://www.national.com/ds/LM/LM1876.pdf
+$ENDCMP
+#
+$CMP TDA1905
+D 5W AUDIO AMPLIFIER WITH MUTING
+K TDA1905 audio amp muting
+F https://lib.chipdip.ru/249/DOC000249734.pdf
+$ENDCMP
+#
+#End Doc Library

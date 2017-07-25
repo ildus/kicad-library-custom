@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2307
+D 4.7 to 23V input, 3A synchronous step-down voltage regulator
+K step-down dcdc voltage regulator
+F https://cdn-shop.adafruit.com/datasheets/MP2307_r1.9.pdf
+$ENDCMP
+#
+$CMP TPS562200
+D 4.5 to 17V input, 2A synchronous step-down voltage regulator
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps563200.pdf
+$ENDCMP
+#
+$CMP TPS563200
+D 4.5 to 17V input, 3A synchronous step-down voltage regulator
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps563200.pdf
+$ENDCMP
+#
+#End Doc Library

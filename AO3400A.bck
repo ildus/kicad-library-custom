@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AO3400A
+D 30V Vgs, 5.7A Id, N-Channel FET Transistor, SOT-23
+K N-Channel FET Transistor
+F http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf
+$ENDCMP
+#
+$CMP AO3401A
+D -30V Vds, -4A Id, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+F http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf
+$ENDCMP
+#
+#End Doc Library
